@@ -1,4 +1,6 @@
 BalloonFlight
 =============
 
-Flappy Jam Game Scripts
+Out Dated Flappy Jam Game Scripts
+
+TODO: update with better techniques and organization
